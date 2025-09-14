@@ -2,7 +2,7 @@
 
 Created E-Commerce Website from scratch with ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> .
 
-## 🛍️ e-Commerce Website
+## 🛍️ E-Commerce Website
 
 An e-Commerce website built using HTML, CSS, and JavaScript as part of my Final Year Diploma Project (COVID Batch).
 This project was developed by a team of 4 members, with me taking the role of Team Lead.
@@ -33,17 +33,12 @@ This website simulates a real-world e-commerce platform with essential features 
 👥 Team Size: 4 Members
 
  Lead:
-<p>
-  <kbd>Abhinab Mondal</kbd>
-</p>
+| Abhinab Mondal | 
+|----------------|
 
 Team:
-<p>
-  <kbd>Riya</kbd>
-  <kbd>Manisha Kumari Prasad</kbd>
-  <kbd>Sabina Yasmin Khatun</kbd>
-</p>
-
+| Riya Sarkar | Manisha Kumari Prasad | Sabina Yasmin Khatun | 
+|-----------|----------------|----------------|
 
 
 ✅ Coordinated development tasks among teammates
