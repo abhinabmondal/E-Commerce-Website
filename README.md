@@ -32,6 +32,20 @@ This website simulates a real-world e-commerce platform with essential features 
 
 👥 Team Size: 4 Members
 
+ Lead:
+<p>
+  <kbd>Abhinab Mondal</kbd>
+</p>
+
+Team:
+<p>
+  <kbd>Riya</kbd>
+  <kbd>Manisha Kumari Prasad</kbd>
+  <kbd>Sabina Yasmin Khatun</kbd>
+</p>
+
+
+
 ✅ Coordinated development tasks among teammates
 
 ✅ Designed website structure and front-end logic
